@@ -1,0 +1,32 @@
+D:\repo\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.deps.json
+D:\repo\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.dll
+D:\repo\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\ref\Navigation.dll
+D:\repo\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.pdb
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csprojAssemblyReference.cache
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfoInputs.cache
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfo.cs
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.dll
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ref\Navigation.dll
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.pdb
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csproj.CoreCompileInputs.cache
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repo\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.deps.json
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.dll
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.pdb
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.dll
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\User\Downloads\Telegram Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.pdb
